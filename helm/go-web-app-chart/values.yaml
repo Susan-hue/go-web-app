@@ -1,0 +1,13 @@
+replicaCount: 1
+
+metadata:
+  name: go-web-app
+  labels:
+    app: go-web-app
+
+image:
+  repository: susan22283/go-web-app
+  pullPolicy: IfNotPresent
+  tag: "v1"
+
+host: go-web-app.local
