@@ -8,6 +8,6 @@ metadata:
 image:
   repository: susan22283/go-web-app
   pullPolicy: IfNotPresent
-  tag: "29587606140"
+  tag: "29593238588"
 
 host: go-web-app.local
